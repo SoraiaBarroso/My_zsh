@@ -19,7 +19,7 @@ Execute it like this `./my_zsh`
 
 ### The Core Team
 
-Soraia Lima Cid
+Soraia Lima Cid &&
 Michael Mullins
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
